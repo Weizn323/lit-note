@@ -1,0 +1,3 @@
+﻿markitdown
+pymupdf
+requests
